@@ -1,0 +1,15 @@
+@InProceedings{ithemal-icml,
+    title =      "Ithemal: Accurate, Portable and Fast Basic Block Throughput Estimation using Deep Neural Networks",
+    author =      "Mendis, Charith and Renda, Alex and Amarasinghe, Saman and Carbin, Michael",
+    booktitle =    "Proceedings of the 36th International Conference on Machine Learning (ICML)",
+    pages =      "4505--4515",
+    year =      "2019",
+    editor =      "Chaudhuri, Kamalika and Salakhutdinov, Ruslan",
+    volume =      "97",
+    series =      "Proceedings of Machine Learning Research",
+    address =      "Long Beach, California, USA",
+    month =      "Jun",
+    publisher =   "PMLR",
+    pdf =      "http://proceedings.mlr.press/v97/mendis19a/mendis19a.pdf",
+    url =      "http://proceedings.mlr.press/v97/mendis19a.html"
+  }

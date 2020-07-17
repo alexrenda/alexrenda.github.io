@@ -1,0 +1,75 @@
+body {
+    color: #333333;
+    font-family: -apple-system,".sfnstext-regular",san francisco,roboto,segoe ui,helvetica neue,lucida grande,Arial,sans-serif;
+    line-height: 1.2;
+}
+
+.award {
+    font-weight: bold;
+    color: #bb3333;
+}
+
+li {
+  margin: 10px 0;
+}
+
+:not(.award) > a {
+    color: #212121;
+}
+
+.award > a {
+    color: inherit;
+}
+
+a {
+    font-weight: 600;
+    text-decoration: none;
+}
+
+body {
+    max-width: 800px;
+}
+
+#news tr td:first-child {
+    width: 100px;
+}
+
+#headshot {
+    float:right;
+    margin-left: 1em;
+    margin-right:2em;
+    margin-bottom: 2em;
+    right:50%;
+    width:300px;
+    height:300px;
+    margin-top: 1em;
+}
+
+#name {
+    float: left;
+}
+
+#shortbio {
+    clear: left;
+}
+
+@media only screen and (max-width: 820px) {
+    #name {
+        float: none;
+        margin-top: 1em;
+    }
+    #headshot {
+        float: none;
+        clear: left;
+        margin-left: 1em;
+        margin-right: 1em;
+        margin-top: 0;
+        width: 200px;
+        height: 200px;
+    }
+    .frontmatter {
+        margin: auto;
+        text-align: center;
+        align: center;
+    }
+}

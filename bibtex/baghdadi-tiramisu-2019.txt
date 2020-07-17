@@ -1,0 +1,6 @@
+@inproceedings{baghdadi_tiramisu_2019,
+    author = {Baghdadi, Riyadh and Debbagh, Abdelkader Nadir and Abdous, Kamel and Zohra, Benhamida Fatima and Renda, Alex and Frankle, Jonathan and Carbin, Michael and Amarasinghe, Saman},
+    title = {Tiramisu: A Polyhedral Compiler for Dense and Sparse Deep Learning},
+    booktitle = {SysML Workshop, Conference on Neural Information Processing Systems},
+    year = {2019},
+}
