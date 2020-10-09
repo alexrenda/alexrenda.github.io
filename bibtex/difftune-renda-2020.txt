@@ -1,0 +1,6 @@
+@inproceedings{renda2020difftune,
+    title={DiffTune: Optimizing CPU Simulator Parameters with Learned Differentiable Surrogates},
+    author={Renda, Alex and Chen, Yishen and Mendis, Charith and Carbin, Michael},
+    booktitle={IEEE/ACM International Symposium on Microarchitecture},
+    year={2020},
+}
