@@ -1,7 +1,7 @@
 body {
     color: #333333;
     font-family: -apple-system,".sfnstext-regular",san francisco,roboto,segoe ui,helvetica neue,lucida grande,Arial,sans-serif;
-    font-size: 16pt;
+    font-size: 14pt;
     line-height: 1.2;
 }
 
@@ -14,9 +14,9 @@ body {
     color: #212121;
 }
 
-table {
-    font-size: inherit;
-}
+/* table { */
+/*     font-size: inherit; */
+/* } */
 
 @media (prefers-color-scheme: dark) {
   body {
@@ -25,8 +25,11 @@ table {
   }
   :not(.award) > a {
     color: #999999;
+  }
 }
 
+i.papertitle {
+    font-style: normal;
 }
 
 li {
